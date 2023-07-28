@@ -1,3 +1,7 @@
+# links equipos proyecto 10
+1. https://brazen-west-selenium.glitch.me/ Grupo: Franci, Zori, Sol, Juanan y Eva
+2. 
+
 # linksaframe
 https://tortoiseshell-colossal-tenor.glitch.me/
 
